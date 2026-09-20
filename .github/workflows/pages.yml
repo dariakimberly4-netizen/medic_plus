@@ -1,4 +1,5 @@
 name: Deploy Medic Plus Dual Clinic Demo
+# Fresh deployment trigger
 on:
   push:
     branches: [main]
